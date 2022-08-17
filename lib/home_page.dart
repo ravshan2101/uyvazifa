@@ -12,7 +12,9 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text("Pdp Online"),
+        child: Text(
+          "Home Page",
+        ),
       ),
     );
   }
